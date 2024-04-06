@@ -1,7 +1,6 @@
 package com.obidia.marketapp.data.repository
 
 import com.obidia.marketapp.data.csv.CSVParser
-import com.obidia.marketapp.data.csv.CompanyListingsParser
 import com.obidia.marketapp.data.local.StockDatabase
 import com.obidia.marketapp.data.mapper.toCompanyListing
 import com.obidia.marketapp.data.mapper.toCompanyListingEntity
